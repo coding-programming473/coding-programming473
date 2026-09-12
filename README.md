@@ -15,7 +15,7 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top"><h3>Focus</h3><p><code>HTML</code></p></td>
-<td width="33%" valign="top"><h3>Proof</h3><p>3 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>3 public repositories · 9957 stars</p></td>
 <td width="33%" valign="top"><h3>Contribution</h3><p>7 contributions · 4 active days</p></td>
 </tr>
 </table>
@@ -50,8 +50,8 @@
 
 <table width="100%">
 <tr>
-<td width="25%" valign="top"><h3><a href="https://github.com/coding-programming473/class-8-social-guide-apk">class-8-social-guide-apk</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 0</sub></p></td>
-<td width="25%" valign="top"><h3><a href="https://github.com/coding-programming473/coding-programming.github.io">coding-programming.github.io</a></h3><p>hello friend this is my first project in html css and javascript</p><p><sub>HTML · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/coding-programming473/class-8-social-guide-apk">class-8-social-guide-apk</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 98</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/coding-programming473/coding-programming.github.io">coding-programming.github.io</a></h3><p>hello friend this is my first project in html css and javascript</p><p><sub>HTML · ⭐ 100</sub></p></td>
 </tr>
 </table>
 
