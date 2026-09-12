@@ -1,16 +1,87 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**coding-programming473/coding-programming473** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><code>coding-programming473@github ~ $ ./maintainer.sh</code></p>
 
-Here are some ideas to get you started:
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/system-scan?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/system-scan?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&style=terminal&v=oss-system-scan-1&mode=dark" width="860" alt="coding-programming473 animated maintainer system scan" />
+</picture>
+</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Why I build in public</h2>
+
+<table width="100%">
+<tr>
+<td width="33%" valign="top"><h3>Focus</h3><p><code>HTML</code></p></td>
+<td width="33%" valign="top"><h3>Proof</h3><p>3 public repositories · 0 stars</p></td>
+<td width="33%" valign="top"><h3>Contribution</h3><p>7 contributions · 4 active days</p></td>
+</tr>
+</table>
+
+<p>Building in public, documenting the work, and making the next contribution easier.</p>
+
+<h2>Open-source toolbox</h2>
+
+<p><code>coding-programming473@github ~ $ toolbox --list</code></p>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&style=terminal&v=oss-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&style=terminal&v=oss-stack-1&mode=dark" width="100%" alt="coding-programming473 open-source technology toolbox" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="100%" align="center"><strong>HTML</strong><br /><sub>100%</sub></td>
+</tr>
+</table>
+
+<h2>Repositories worth exploring</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&repos=coding-programming473%2FWifi-password_cracker%2Ccoding-programming473%2Fclass-8-social-guide-apk%2Ccoding-programming473%2Fcoding-programming.github.io&v=oss-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&repos=coding-programming473%2FWifi-password_cracker%2Ccoding-programming473%2Fclass-8-social-guide-apk%2Ccoding-programming473%2Fcoding-programming.github.io&v=oss-projects-1&mode=dark" width="860" alt="coding-programming473 maintainer repositories" />
+</picture>
+</p>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><h3><a href="https://github.com/coding-programming473/class-8-social-guide-apk">class-8-social-guide-apk</a></h3><p>A public project looking for its next contributor.</p><p><sub>Open source · ⭐ 0</sub></p></td>
+<td width="25%" valign="top"><h3><a href="https://github.com/coding-programming473/coding-programming.github.io">coding-programming.github.io</a></h3><p>hello friend this is my first project in html css and javascript</p><p><sub>HTML · ⭐ 0</sub></p></td>
+</tr>
+</table>
+
+<h2>Contribution activity</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&style=terminal&v=oss-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&style=terminal&v=oss-stats-1&mode=dark" width="100%" alt="coding-programming473 open-source signal" />
+</picture>
+</p>
+
+<h2>Contribution trail</h2>
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&v=oss-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&v=oss-heatmap-1&mode=dark" width="100%" alt="coding-programming473 contribution trail" />
+</picture>
+</p>
+
+<hr />
+
+<h2>Contribute together</h2>
+
+<p>If the work is useful, open an issue, improve the docs, share a project, or start a conversation.</p>
+
+<p align="center"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&v=oss-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=coding-programming473&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F231868139%3Fv%3D4&v=oss-social-1&mode=dark" width="100%" alt="coding-programming473 community links" />
+</picture></p>
+<p align="center"><a href="https://github.com/coding-programming473">GitHub</a></p>
+<p align="center"><sub>coding-programming473 · open-source profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
